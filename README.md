@@ -1,4 +1,4 @@
-feeds-manager
+Feeds Manager
 =============
 
 A feed aggregator and manipulator.
